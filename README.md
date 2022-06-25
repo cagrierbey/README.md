@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Çağrı Anıl Erbey</h1>
-<h3 align="center">Computer Engineer.</h3>
+<h3 align="center">I’m currently studying at Dokuz Eylül University</h3>
 
 - 🔭 I’m currently working on **image classification project.**
 
