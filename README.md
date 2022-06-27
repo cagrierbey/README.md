@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Çağrı Anıl Erbey</h1>
 <h3 align="center">I’m currently studying at Dokuz Eylül University</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cagrierbey&label=Profile%20views&color=0e75b6&style=flat" alt="cagrierbey" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagrierbey" alt="cagrierbey" /></a> </p>
+
 - 🔭 I’m currently working on **image classification project.**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://tr.linkedin.com/in/caerbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://tr.linkedin.com/in/caerbey" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cagri_anil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cagri_anil" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/aranlerbey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aranlerbey/" height="30" width="40" /></a>
 <p align="left">
 </p>
 
